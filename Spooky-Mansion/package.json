@@ -1,0 +1,19 @@
+{
+  "name": "com.3dfurnace.models.spookymansion",
+  "displayName": "Spooky Mansion by 3DFurnace",
+  "version": "1.0.0",
+  "author": {
+    "name": "GameDevGuy",
+    "email": "3dfurnace.A1@gmail.com",
+    "url": "https://www.youtube.com/channel/UC4IaCfXEndj4cv-JATpuRdg"
+  },
+  "keywords": [
+    "stylized",
+    "spooky",
+    "mansion",
+    "lowpoly",
+    "low poly",
+    "low-poly"
+  ],
+  "description": "3D model for Unity Games.  Open README.txt for more information."
+}
